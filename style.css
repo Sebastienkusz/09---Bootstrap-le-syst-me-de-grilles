@@ -1,0 +1,32 @@
+body {padding:0px;
+    margin:10px;
+  }
+  
+  .no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+  }
+  
+  .container{
+    margin-top: 50px;
+    margin-left:auto;
+    margin-right:auto;
+    witdh:50%;
+  }
+  
+  .col-1 {
+    padding:4%;
+    border:solid 0.2px white;
+  }
+  
+  .rowBlack {
+    background-color: black;
+  }
+  
+  .rowYellow {
+    background-color: yellow;
+  }
+  
+  #rowOrange {
+    background-color: orange;
+  }
